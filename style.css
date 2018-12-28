@@ -1,6 +1,6 @@
 .bg1{
   background-image:url("bg2.jpg");
-  height:697px;
+  height:100vh;
   /* parallax scroll effect */
   position: relative;
   background-repeat: no-repeat;
